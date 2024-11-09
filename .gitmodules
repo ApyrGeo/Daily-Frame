@@ -1,6 +1,6 @@
 [submodule "Daily-Frame-backend"]
   path = backend
-  url = https://github.com/ApyrGeo/Daily-Frame-backend.git :main
+  url = https://github.com/ApyrGeo/Daily-Frame-backend.git
 
 [submodule "Daily-Frame-frontend"]
   path = frontend
