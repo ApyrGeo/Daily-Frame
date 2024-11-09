@@ -26,3 +26,5 @@ which they can do by one of the buttons in the top right corner.
 
 The dashboard is the main page of the authentificated user. From here they can upload a post, like others posts or modify it's own (delete).
 
+The page keeps the user connected until he logs out, so if you reenter the site the Dashboard Page should open first.
+
