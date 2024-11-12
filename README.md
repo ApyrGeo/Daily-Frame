@@ -1,5 +1,10 @@
 # Daily Frame
 
+## Source Codes
+
+[Backend](https://github.com/ApyrGeo/Daily-Frame-backend)
+[Frontend](https://github.com/ApyrGeo/Daily-Frame-frontend)
+
 ## Description
 
 Daily Frame is a personal project which includes both a backend and a frontend side. 
